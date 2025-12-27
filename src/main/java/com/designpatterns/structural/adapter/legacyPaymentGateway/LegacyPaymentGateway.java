@@ -1,4 +1,4 @@
-package com.designpatterns.structural.legacyPaymentGateway;
+package com.designpatterns.structural.adapter.legacyPaymentGateway;
 
 /**
  * Legacy payment gateway with an incompatible interface.

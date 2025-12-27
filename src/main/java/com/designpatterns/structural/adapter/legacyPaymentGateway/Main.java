@@ -1,4 +1,4 @@
-package com.designpatterns.structural.legacyPaymentGateway;
+package com.designpatterns.structural.adapter.legacyPaymentGateway;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.designpatterns.structural.legacyPaymentGateway;
+package com.designpatterns.structural.adapter.legacyPaymentGateway;
 
 /**
  * Adapter to make the legacy gateway compatible with PaymentProcessor.
